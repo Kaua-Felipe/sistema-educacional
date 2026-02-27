@@ -1,0 +1,18 @@
+Ferramentas:
+- Front End:
+    - React;
+    - HTML;
+    - TawildCSS;
+- Back End:
+    - Banco de Dados
+        - ? (Relacional)
+    - API:
+        - Express
+- Inteligência Artificial
+    - Python
+- Docker
+
+
+
+
+Link para modelo de website do projeto: https://edudash-php.theme.picode.in/index.php
