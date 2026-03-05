@@ -16,3 +16,15 @@ Ferramentas:
 
 
 Link para modelo de website do projeto: https://edudash-php.theme.picode.in/index.php
+
+
+
+
+
+FRONT-END:
+body:
+    aside:
+    main:
+        nav
+        div.dashboard-main
+        footer
