@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Ambiente/Credenciais
+.env
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribuição
+dist/
+build/
+*.egg-info/
