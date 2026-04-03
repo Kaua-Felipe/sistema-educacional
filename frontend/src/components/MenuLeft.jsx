@@ -2,7 +2,7 @@ import React from "react"
 
 import NavItem from "./NavItem"
 import MenuNavItem from "./MenuNavItem"
-import { House, GraduationCap, Users, UsersRound, School, BookOpenCheck, CircleDollarSign, CalendarCheck, Clock, ShieldCheck, LibraryBig, UserRoundCog, MessageSquareText, IdCard } from "lucide-react"
+import { House, GraduationCap, UsersRound, School, BookOpenCheck, CircleDollarSign, CalendarCheck, Clock, ShieldCheck, LibraryBig, UserRoundCog, MessageSquareText, IdCard } from "lucide-react"
 import NavProfile from "./NavProfile"
 
 function MenuLeft() {
