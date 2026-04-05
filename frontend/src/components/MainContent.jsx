@@ -6,7 +6,7 @@ import NavBar from "./NavBar"
 function MainContent() {
 
     return (
-        <main className="w-full ml-78 bg-[#eef2f6]">
+        <main className="w-full lg:ml-78 bg-[#eef2f6]">
             <NavBar />
             <Dashboard />
             <Footer />
